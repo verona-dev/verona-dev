@@ -1,4 +1,4 @@
-![test](git-wrapped-verona-dev.png?)
+![test](git-wrapped-verona-dev.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verona-dev&hide_progress=true&theme=radical)
 
