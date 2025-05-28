@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="git-wrapped-verona-dev.png" width="75%" height="75%">
+  <img src="git-wrapped-verona-dev.png" width="65%" height="65%">
 
   &nbsp;
   
