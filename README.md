@@ -1,4 +1,4 @@
-<img src="git-wrapped-verona-dev.png" width="50%" height="50%">
+<img src="git-wrapped-verona-dev.png" width="75%" height="75%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verona-dev&hide_progress=true&theme=radical)
 
