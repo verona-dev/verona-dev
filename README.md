@@ -4,15 +4,14 @@
   &nbsp;
   
   <h3>Languages and Tools:</h3>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-FFDE21?logo=javascript&logoColor=black" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-0096FF?logo=css&logoColor=white" />
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="html" width="" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~bgwhite.svg" alt="css" width="" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg" alt="javascript" width="" height="50"/> 
 
   &nbsp;
   
   ![](https://visitor-badge.laobi.icu/badge?page_id=verona-hub.verona-hub)
 </div>
-;
 
 
   
