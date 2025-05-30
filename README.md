@@ -26,6 +26,12 @@
   </div>
   
   &nbsp;
+
+   <div>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="git" width="100" height="50" /> &nbsp;
+  </div>
+
+  &nbsp;
   
   <img src="git-wrapped-verona-dev.png" width="65%" height="65%">
 
