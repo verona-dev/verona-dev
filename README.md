@@ -15,7 +15,8 @@
   </div>
 
   <div>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21~bgwhite.svg" alt="figma" width="" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21~bgwhite.svg" alt="figma" width="100" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21~bgwhite.svg" alt="wordpress" width="100" height="50"/> 
   </div>
   
   &nbsp;
