@@ -20,7 +20,7 @@
   <div>
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21~bgwhite.svg" alt="vue" width="100" height="50" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21~bgwhite.svg" alt="nuxt" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" width="100" height="50" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21~bgwhite.svg" alt="netlify" width="100" height="50" /> &nbsp; &nbsp;
   </div>
 
   &nbsp;
