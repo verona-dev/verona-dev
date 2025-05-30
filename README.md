@@ -4,19 +4,8 @@
 
   &nbsp;
 
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="html" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~bgwhite.svg" alt="css" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg" alt="javascript" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21~bgwhite.svg" alt="wordpress" width="100" height="50" /> &nbsp; &nbsp;
-  </div>
-
-  &nbsp;
-
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21~bgwhite.svg" alt="vue" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21~bgwhite.svg" alt="nuxt" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" width="100" height="50" /> &nbsp; &nbsp;
+   <div>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="git" width="100" height="50" /> &nbsp;
   </div>
 
   &nbsp;
@@ -27,9 +16,20 @@
   </div>
   
   &nbsp;
+  
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21~bgwhite.svg" alt="vue" width="100" height="50" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21~bgwhite.svg" alt="nuxt" width="100" height="50" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" width="100" height="50" /> &nbsp; &nbsp;
+  </div>
 
-   <div>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="git" width="100" height="50" /> &nbsp;
+  &nbsp;
+
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="html" width="100" height="50" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~bgwhite.svg" alt="css" width="100" height="50" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg" alt="javascript" width="100" height="50" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21~bgwhite.svg" alt="wordpress" width="100" height="50" /> &nbsp; &nbsp;
   </div>
 
   &nbsp;
