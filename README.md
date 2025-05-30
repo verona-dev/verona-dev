@@ -22,6 +22,7 @@
 
   <div>
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21~bgwhite.svg" alt="wordpress" width="100" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21~bgwhite.svg" alt="sass" width="100" height="50"/> 
   </div>
   
   &nbsp;
