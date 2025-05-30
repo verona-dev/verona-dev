@@ -1,10 +1,17 @@
 <div align="center">
 
   <h3>Languages and Tools:</h3>
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="html" width="" height="50"/> 
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~bgwhite.svg" alt="css" width="" height="50"/> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg" alt="javascript" width="" height="50"/> 
 
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="html" width="100" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~bgwhite.svg" alt="css" width="100" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg" alt="javascript" width="100" height="50"/> 
+  </div>
+
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21~bgwhite.svg" alt="vue" width="100" height="50"/> 
+  </div>
+  
   &nbsp;
   
   <img src="git-wrapped-verona-dev.png" width="65%" height="65%">
