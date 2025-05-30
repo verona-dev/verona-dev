@@ -13,6 +13,10 @@
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21~bgwhite.svg" alt="nuxt" width="100" height="50"/> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21~bgwhite.svg" alt="tailwind" width="100" height="50"/> 
   </div>
+
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21~bgwhite.svg" alt="figma" width="" height="50"/> 
+  </div>
   
   &nbsp;
   
