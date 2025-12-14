@@ -1,47 +1,43 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20I'm%20Zoran%20G%20Verona&fontSize=60&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Frontend%20developer)](https://github.com/verona-dev)
-
-
-  <h3>Languages and Tools:</h3>
-
-  &nbsp;
-
-   <div>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="git" width="100" height="50" /> &nbsp;
+  [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20I'm%20Zoran%20G%20Verona&fontSize=60&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Frontend%20developer)](https://github.com/verona-dev)
+  
+  ### Frontend  
+  <div align="center">  
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
+    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>  
+    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a>  
+    <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="Vue" height="50" /></a>   
+    <a href="https://nuxt.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt" height="50" /></a>
+    <a href="https://pinia.vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pinia" alt="Pinia" height="50" /></a>
+    <a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=astro" alt="Astro" height="50" /></a>
+    <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jquery" alt="Jquery" height="50" /></a>   
+    <a href="https://tailwindcss.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="50" /></a> 
+    <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50" /></a>
+    <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" /></a>
+    <a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" height="50" /></a>
   </div>
-
-  &nbsp;
-
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21~bgwhite.svg" alt="tailwind" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21~bgwhite.svg" alt="sass" width="100" height="50" /> &nbsp; &nbsp;
+  
+  ### Other  
+  <div align="center">  
+    <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" /></a>
+    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
+    <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
+    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
+    <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>
+    <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="50" /></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=npm" alt="Npm" height="50" /></a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=webstorm" alt="Webstorm" height="50" /></a>
   </div>
   
   &nbsp;
-  
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21~bgwhite.svg" alt="vue" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21~bgwhite.svg" alt="nuxt" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21~bgwhite.svg" alt="netlify" width="100" height="50" /> &nbsp; &nbsp;
-  </div>
-
-  &nbsp;
-
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="html" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~bgwhite.svg" alt="css" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg" alt="javascript" width="100" height="50" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21~bgwhite.svg" alt="wordpress" width="100" height="50" /> &nbsp; &nbsp;
-  </div>
-
-  &nbsp;
-  
+    
   <img src="git-wrapped-verona-dev.png" width="65%" height="65%">
-
+  
   &nbsp;
-
+  
   ![](https://visitor-badge.laobi.icu/badge?page_id=verona-hub.verona-hub)
+
 </div>
 
 
