@@ -1,5 +1,8 @@
 <div align="center">
 
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20I'm%20Zoran%20G%20Verona&fontSize=60&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Frontend%20developer)](https://github.com/verona-dev)
+
+
   <h3>Languages and Tools:</h3>
 
   &nbsp;
