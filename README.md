@@ -1,8 +1,12 @@
 <div align="center">
 
   [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20I'm%20Zoran%20G%20Verona&fontSize=60&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Frontend%20developer)](https://github.com/verona-dev)
+
+
+## Skills
+  <table><tr><td valign="top" width="50%">
   
-  ### Frontend  
+  ### Languages and Tools  
   <div align="center">  
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>  
@@ -16,11 +20,13 @@
     <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50" /></a>
     <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" /></a>
     <a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" height="50" /></a>
+    <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" /></a>
   </div>
+
+  </td><td valign="top" width="50%">
   
   ### Other  
   <div align="center">  
-    <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" /></a>
     <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
     <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
     <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
@@ -28,6 +34,18 @@
     <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="50" /></a>
     <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=npm" alt="Npm" height="50" /></a>
     <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=webstorm" alt="Webstorm" height="50" /></a>
+  </div>
+
+  </td></tr>
+  </table>  
+
+   &nbsp;
+
+  # Project Showcase
+  <div align="center">
+    <a href="https://crypto-horizon-app.netlify.app/">
+      <img src="https://res.cloudinary.com/dgcyv1ehi/image/upload/v1761173267/crypto-horizon_-_logo-12_js96kq.png" alt="Crypto Horizon">
+    </a>
   </div>
   
   &nbsp;
