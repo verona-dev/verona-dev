@@ -7,34 +7,33 @@
   <table><tr><td valign="top" width="50%">
   
   ### Languages and Tools  
-  <div align="center">  
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
-    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>  
-    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a>  
-    <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="Vue" height="50" /></a>   
-    <a href="https://nuxt.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt" height="50" /></a>
-    <a href="https://pinia.vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pinia" alt="Pinia" height="50" /></a>
-    <a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=astro" alt="Astro" height="50" /></a>
-    <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jquery" alt="Jquery" height="50" /></a>   
-    <a href="https://tailwindcss.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="50" /></a> 
-    <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50" /></a>
-    <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" /></a>
-    <a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" height="50" /></a>
-    <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" /></a>
-  </div>
+# Skills
 
-  </td><td valign="top" width="50%">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <!-- Languages and Tools -->
+  <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a>
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" height="50" /></a>
+  <a href="https://nuxt.com/"><img src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt" height="50" /></a>
+  <a href="https://pinia.vuejs.org/"><img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" height="50" /></a>
+  <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" height="50" /></a>
+  <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" alt="Jquery" height="50" /></a>
+  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="50" /></a>
+  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50" /></a>
+  <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" /></a>
+  <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" height="50" /></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" /></a>
   
-  ### Other  
-  <div align="center">  
-    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
-    <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
-    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
-    <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>
-    <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="50" /></a>
-    <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=npm" alt="Npm" height="50" /></a>
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=webstorm" alt="Webstorm" height="50" /></a>
-  </div>
+  <!-- Other -->
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>
+  <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="50" /></a>
+  <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="Npm" height="50" /></a>
+  <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm" alt="Webstorm" height="50" /></a>
+</div>
 
   </td></tr>
   </table>  
