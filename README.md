@@ -7,13 +7,13 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,pinia,astro,jquery,tailwind,sass,graphql,wordpress,supabase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,express,vue,nuxt,pinia,astro,jquery,tailwind,sass,graphql,wordpress,supabase,bootstrap&perline=6" />
 </p>
 
 ### Other
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,figma,postman,netlify,npm,webstorm&perline=8" />
+  <img src="https://skillicons.dev/icons?i=linux,git,figma,postman,cloudflare,netlify,npm,webstorm&perline=8" />
 </p>
 
 &nbsp;
