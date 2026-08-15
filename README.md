@@ -7,7 +7,7 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,express,vue,nuxt,pinia,astro,jquery,tailwind,sass,graphql,wordpress,supabase,bootstrap&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,express,vue,nuxt,pinia,astro,jquery,tailwind,sass,graphql,wordpress,supabase,bootstrap,pinia&perline=6" />
 </p>
 
 ### Other
