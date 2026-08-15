@@ -7,13 +7,13 @@
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,vue,nuxt,astro&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,astro,jquery" />
 </p>
 
 ### Backend - Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,mysql,supabase,graphql&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,supabase,graphql" />
 </p>
 
 ### Styling
