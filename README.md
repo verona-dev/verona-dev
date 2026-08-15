@@ -4,16 +4,40 @@
 
 ## Skills
 
-### Languages & Tools
+### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,express,vue,nuxt,pinia,astro,jquery,tailwind,sass,graphql,wordpress,supabase,bootstrap,pinia&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,vue,nuxt,astro&perline=7" />
 </p>
 
-### Other
+### Backend - Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,figma,postman,cloudflare,netlify,npm,webstorm&perline=8" />
+  <img src="https://skillicons.dev/icons?i=express,mysql,supabase,graphql&perline=4" />
+</p>
+
+### Styling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap&perline=3" />
+</p>
+
+### CMS - State Management
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,pinia" />
+</p>
+
+### Tools - Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,figma,postman,npm,webstorm&perline=5" />
+</p>
+
+### Deployment - Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,cloudflare,netlify,vercel" />
 </p>
 
 &nbsp;
